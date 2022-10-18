@@ -6,9 +6,9 @@ CURRENT=$PWD
 
 cd $TMPDIR
 
-for script in ~/.dotfiles/scripts/*; do
-  bash "$script"
-done
+#for script in ~/.dotfiles/scripts/*; do
+#  bash "$script"
+#done
 
 cd $CURRENT
 
